@@ -21,8 +21,7 @@ export class AppComponent implements OnInit {
   ngOnInit() {
     this.images = [
       {
-        itemImageSrc:
-          'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203171024/CSSTutorial.png',
+        itemImageSrc: '/assets/images/Blue Pink Gradient Fashion Banner.png',
         thumbnailImageSrc:
           'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203171024/CSSTutorial.png',
         alt: 'Description for Image 1',
